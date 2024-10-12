@@ -1,35 +1,102 @@
-2024-10-09 11:13:10 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
-2024-10-09 11:13:11 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
-2024-10-09 11:13:11 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link.. 
-2024-10-09 11:13:11 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
-2024-10-09 11:13:13 INFO  TC001_AccountRegistrationTest:42 - Validating expected message..
-2024-10-09 11:13:13 INFO  TC001_AccountRegistrationTest:47 - Test passed
-2024-10-09 11:13:13 INFO  TC001_AccountRegistrationTest:56 - ***** Finished TC001_AccountRegistrationTest *****
-2024-10-09 11:13:16 INFO  TC002_LoginTest:16 - ****** Startign TC_002_LoginTest *****
-2024-10-09 11:14:37 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
-2024-10-09 11:14:37 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
-2024-10-09 11:14:38 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link.. 
-2024-10-09 11:14:38 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
-2024-10-09 11:14:39 INFO  TC001_AccountRegistrationTest:42 - Validating expected message..
-2024-10-09 11:14:40 INFO  TC001_AccountRegistrationTest:47 - Test passed
-2024-10-09 11:14:40 INFO  TC001_AccountRegistrationTest:56 - ***** Finished TC001_AccountRegistrationTest *****
-2024-10-09 11:14:43 INFO  TC002_LoginTest:16 - ****** Startign TC_002_LoginTest *****
-2024-10-09 11:14:59 INFO  TC003_LoginDDT:26 - ***** stating TC_003_LoginDDT ******
-2024-10-09 11:15:11 INFO  TC003_LoginDDT:26 - ***** stating TC_003_LoginDDT ******
-2024-10-09 11:15:18 INFO  TC003_LoginDDT:79 - ***** Finished TC_003_LoginDDT ******
-2024-10-09 11:15:18 INFO  TC003_LoginDDT:26 - ***** stating TC_003_LoginDDT ******
-2024-10-09 11:15:25 INFO  TC003_LoginDDT:79 - ***** Finished TC_003_LoginDDT ******
-2024-10-09 11:15:25 INFO  TC003_LoginDDT:26 - ***** stating TC_003_LoginDDT ******
-2024-10-09 11:15:39 INFO  TC003_LoginDDT:79 - ***** Finished TC_003_LoginDDT ******
-2024-10-09 11:15:39 INFO  TC003_LoginDDT:26 - ***** stating TC_003_LoginDDT ******
-2024-10-09 11:15:45 INFO  TC003_LoginDDT:79 - ***** Finished TC_003_LoginDDT ******
-2024-10-09 11:15:45 INFO  TC003_LoginDDT:26 - ***** stating TC_003_LoginDDT ******
-2024-10-09 11:15:59 INFO  TC003_LoginDDT:79 - ***** Finished TC_003_LoginDDT ******
-2024-10-09 20:14:05 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
-2024-10-09 20:14:05 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
-2024-10-09 20:14:06 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link.. 
-2024-10-09 20:14:06 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
-2024-10-09 20:14:07 INFO  TC001_AccountRegistrationTest:42 - Validating expected message..
-2024-10-09 20:14:07 INFO  TC001_AccountRegistrationTest:47 - Test passed
-2024-10-09 20:14:07 INFO  TC001_AccountRegistrationTest:56 - ***** Finished TC001_AccountRegistrationTest *****
-2024-10-09 20:14:11 INFO  TC002_LoginTest:16 - ****** Startign TC_002_LoginTest *****
+2024-10-12 11:04:33 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-10-12 11:04:34 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
+2024-10-12 11:04:35 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link.. 
+2024-10-12 11:04:35 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
+2024-10-12 11:04:37 INFO  TC001_AccountRegistrationTest:42 - Validating expected message..
+2024-10-12 11:04:37 INFO  TC001_AccountRegistrationTest:47 - Test passed
+2024-10-12 11:04:37 INFO  TC001_AccountRegistrationTest:56 - ***** Finished TC001_AccountRegistrationTest *****
+2024-10-12 11:04:40 INFO  TC002_LoginTest:23 - ****** Startign TC_002_LoginTest *****
+2024-10-12 11:04:40 INFO  TC002_LoginTest:50 - ****** Finished TC_002_LoginTest *****
+2024-10-12 11:06:33 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-10-12 11:06:34 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
+2024-10-12 11:06:35 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link.. 
+2024-10-12 11:06:35 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
+2024-10-12 11:06:37 INFO  TC001_AccountRegistrationTest:42 - Validating expected message..
+2024-10-12 11:06:37 INFO  TC001_AccountRegistrationTest:47 - Test passed
+2024-10-12 11:06:37 INFO  TC001_AccountRegistrationTest:56 - ***** Finished TC001_AccountRegistrationTest *****
+2024-10-12 11:06:40 INFO  TC002_LoginTest:23 - ****** Startign TC_002_LoginTest *****
+2024-10-12 11:06:40 INFO  TC002_LoginTest:50 - ****** Finished TC_002_LoginTest *****
+2024-10-12 11:11:36 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-10-12 11:11:37 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
+2024-10-12 11:11:37 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link.. 
+2024-10-12 11:11:37 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
+2024-10-12 11:11:39 INFO  TC001_AccountRegistrationTest:42 - Validating expected message..
+2024-10-12 11:11:39 INFO  TC001_AccountRegistrationTest:47 - Test passed
+2024-10-12 11:11:39 INFO  TC001_AccountRegistrationTest:56 - ***** Finished TC001_AccountRegistrationTest *****
+2024-10-12 11:11:42 INFO  TC002_LoginTest:23 - ****** Startign TC_002_LoginTest *****
+2024-10-12 11:11:46 INFO  TC003_TitleTest:23 - ****** Startign TC_002_LoginTest *****
+2024-10-12 11:11:47 INFO  TC003_TitleTest:52 - ****** Finished TC_002_LoginTest *****
+2024-10-12 11:13:01 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-10-12 11:13:02 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
+2024-10-12 11:13:02 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link.. 
+2024-10-12 11:13:02 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
+2024-10-12 11:13:05 INFO  TC001_AccountRegistrationTest:42 - Validating expected message..
+2024-10-12 11:13:05 INFO  TC001_AccountRegistrationTest:47 - Test passed
+2024-10-12 11:13:05 INFO  TC001_AccountRegistrationTest:56 - ***** Finished TC001_AccountRegistrationTest *****
+2024-10-12 11:13:08 INFO  TC002_LoginTest:23 - ****** Startign TC_002_LoginTest *****
+2024-10-12 11:13:08 INFO  TC002_LoginTest:53 - ****** Finished TC_002_LoginTest *****
+2024-10-12 11:13:11 INFO  TC003_TitleTest:23 - ****** Startign TC_002_LoginTest *****
+2024-10-12 11:13:12 INFO  TC003_TitleTest:52 - ****** Finished TC_002_LoginTest *****
+2024-10-12 11:13:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-12 11:13:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2024-10-12 11:13:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-12 11:13:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-12 11:13:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-12 11:13:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-12 11:13:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-12 11:13:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-12 11:13:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+2024-10-12 11:13:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 11 ms.
+2024-10-12 11:13:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-12 11:13:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-12 11:13:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-12 11:13:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-12 11:13:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-12 11:13:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-12 11:13:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-12 11:13:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-12 11:13:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-12 11:13:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-12 11:13:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-12 11:13:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-12 11:13:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-12 11:13:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-12 11:13:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2024-10-12 11:13:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-12 11:13:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-12 11:13:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-12 11:13:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-12 11:13:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-12 11:13:48 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Pams.Dhulls\AppData\Local\Temp\testng-eclipse--1117199722\testng-customsuite.xml
+
+2024-10-12 11:13:48 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+2024-10-12 11:13:48 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@160ac7fb: 31 ms
+2024-10-12 11:13:49 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@40e10ff8: 78 ms
+2024-10-12 11:13:49 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@1252b961: 18 ms
+2024-10-12 11:13:49 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@42a9e5d1: 17 ms
+2024-10-12 11:13:49 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@1bc715b8: 13 ms
+2024-10-12 11:13:49 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@3e8f7922: 8 ms
+2024-10-12 11:13:49 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@63192798: 0 ms
+2024-10-12 11:14:22 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-10-12 11:14:23 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
+2024-10-12 11:14:24 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link.. 
+2024-10-12 11:14:24 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
+2024-10-12 11:14:26 INFO  TC001_AccountRegistrationTest:42 - Validating expected message..
+2024-10-12 11:14:26 INFO  TC001_AccountRegistrationTest:47 - Test passed
+2024-10-12 11:14:26 INFO  TC001_AccountRegistrationTest:56 - ***** Finished TC001_AccountRegistrationTest *****
+2024-10-12 11:14:29 INFO  TC002_LoginTest:23 - ****** Startign TC_002_LoginTest *****
+2024-10-12 11:14:30 INFO  TC002_LoginTest:53 - ****** Finished TC_002_LoginTest *****
+2024-10-12 11:14:33 INFO  TC003_TitleTest:23 - ****** Startign TC_002_LoginTest *****
+2024-10-12 11:14:34 INFO  TC003_TitleTest:52 - ****** Finished TC_002_LoginTest *****
+2024-10-12 11:19:53 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-10-12 11:19:54 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
+2024-10-12 11:19:55 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link.. 
+2024-10-12 11:19:55 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
+2024-10-12 11:19:57 INFO  TC001_AccountRegistrationTest:42 - Validating expected message..
+2024-10-12 11:19:57 INFO  TC001_AccountRegistrationTest:47 - Test passed
+2024-10-12 11:19:57 INFO  TC001_AccountRegistrationTest:56 - ***** Finished TC001_AccountRegistrationTest *****
+2024-10-12 11:20:00 INFO  TC002_LoginTest:23 - ****** Startign TC_002_LoginTest *****
+2024-10-12 11:20:01 INFO  TC002_LoginTest:53 - ****** Finished TC_002_LoginTest *****
+2024-10-12 11:20:04 INFO  TC003_TitleTest:23 - ****** Startign TC_003_TitleTest *****
+2024-10-12 11:20:05 INFO  TC003_TitleTest:52 - ****** Finished TC_003_TitleTest *****

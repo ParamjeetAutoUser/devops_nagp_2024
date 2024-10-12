@@ -10,27 +10,26 @@ import pageObjects.LoginPage;
 import pageObjects.MyAccountPage;
 import testBase.BaseClass;
 
-public class TC002_LoginTest extends BaseClass{
+public class TC003_TitleTest extends BaseClass{
 	
-	public int add(int a, int b)
+	public int sub(int a, int b)
 	{
-		return a + b;
+		return a - b;
 	}
-
+	
 	@Test(groups={"Sanity","Master"})
 	public void verify_login()
 	{
-		logger.info("****** Startign TC_002_LoginTest *****");
+		logger.info("****** Startign TC_003_TitleTest *****");
 		
 		try
 		{
-			int total = 8;
-			int sum= add(4,4);
-			assertEquals(sum, total);
+			int total = 0;
+			int sub= sub(4,4);
+			assertEquals(sub, total);
 			HomePage hp=new HomePage(driver); 
 			hp.clickMyAccount();
-			System.out.println("Title of Page: "+ driver.getTitle());
-			assertEquals(driver.getTitle(),"Your Store");
+			
 			/*
 			 * //HomePage HomePage hp=new HomePage(driver); hp.clickMyAccount();
 			 * hp.clickLogin();
@@ -50,7 +49,7 @@ public class TC002_LoginTest extends BaseClass{
 		{
 			Assert.fail();
 		}
-		logger.info("****** Finished TC_002_LoginTest *****");
+		logger.info("****** Finished TC_003_TitleTest *****");
 	}
 	
 }
