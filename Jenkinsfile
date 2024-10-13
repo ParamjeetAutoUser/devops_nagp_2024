@@ -27,7 +27,7 @@ pipeline{
     stage("SonarQube"){
       steps{
         withSonarQubeEnv("Test_SonarQube"){
-          bat 'mvn sonar:sonar'
+          bat "mvn org.sonarsource.scanner.maven:sonar-maven-plugin:3.8.0.2131:sonar" 
         }
       }
     }

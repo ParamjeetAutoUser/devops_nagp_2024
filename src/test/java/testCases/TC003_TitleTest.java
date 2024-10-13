@@ -18,7 +18,7 @@ public class TC003_TitleTest extends BaseClass{
 	}
 	
 	@Test(groups={"Sanity","Master"})
-	public void verify_login()
+	public void verify_TitleSubs()
 	{
 		logger.info("****** Startign TC_003_TitleTest *****");
 		
@@ -29,6 +29,8 @@ public class TC003_TitleTest extends BaseClass{
 			assertEquals(sub, total);
 			HomePage hp=new HomePage(driver); 
 			hp.clickMyAccount();
+			System.out.println("Title of Page: "+ driver.getTitle());
+			assertEquals(driver.getTitle(),"Your Store");
 			
 			/*
 			 * //HomePage HomePage hp=new HomePage(driver); hp.clickMyAccount();
