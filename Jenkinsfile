@@ -19,6 +19,11 @@ pipeline{
        bat 'mvn test'
       }
     }
+    stage("TestNGReport"){
+      steps{
+       testNG()
+      }
+    }
     stage("SonarQube"){
       steps{
         withSonarQubeEnv("Test_SonarQube"){
