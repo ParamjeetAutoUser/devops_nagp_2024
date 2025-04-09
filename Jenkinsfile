@@ -36,8 +36,8 @@ pipeline{
         rtMavenDeployer(
             id:'deployer',
             serverId: '3145614@artifactory',
-            releaseRepo: 'nagp.session.2024',
-            snapshotRepo: 'nagp.session.2024'
+            releaseRepo: 'nagp.session.2025',
+            snapshotRepo: 'nagp.session.2025'
         )
         rtMavenRun(
             pom:'pom.xml',
